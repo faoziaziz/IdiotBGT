@@ -1,6 +1,6 @@
 # Idiot BGT
 
-Merupakan project seneng-seneng dari [Labseni](https://labseni.herokuapp.com) yang semoga bisa menjadi karya yang bagus.
+Merupakan project seneng-seneng dari [Labseni](https://labseni.herokuapp.com/Techneandpraxis/2018/02/11/Paho-dan-Java.html) yang semoga bisa menjadi karya yang bagus.
 
 
 
