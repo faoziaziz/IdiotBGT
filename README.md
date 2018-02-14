@@ -12,6 +12,18 @@ Merupakan project seneng-seneng dari [Labseni](https://labseni.herokuapp.com/tec
 ```bash
 git clone https://github.com/faoziaziz/IdiotBGT.git tutLabseni
 cd tutLabseni/idiotBGT
+```
+download semua dependency biar nanti bisa dikerjain offline dikosan biar hemat
+
+```bash 
+mvn dependency:go-offline
+```
+lalu install
+```bash
+mvn -o install
+```
+Sekarang kita akan jalankan programnya
+```bash
 mvn exec:java -Dexec.mainClass=org.labseni.App
 ```
 

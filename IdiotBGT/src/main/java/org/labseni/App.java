@@ -48,8 +48,8 @@ public class App {
 		Thread.sleep(4000);
  
 		// Creating a MQTT Client using Eclipse Paho
-		String topic = "news";
-		String content = "Visit www.hascode.com! :D";
+		String topic = "Boker";
+		String content = "Dicelana";
 		int qos = 2;
 		String broker = "tcp://0.0.0.0:1883";
 		String clientId = "paho-java-client";
